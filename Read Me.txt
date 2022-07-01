@@ -1,0 +1,9 @@
+Developer: Zuhaib Muhammad
+email: zuhaib.muhammad49@gmail.com
+Description: This program has been developed in python to copy the files in Google Drive to AWS S3 bucket.
+Requirements: To run this program, secrets need to be set in the OS environment variables, I will soon upload the steps in this repository later. Secondly, 
+it needs an authentication and an authorization process to access from the Google Drive. Thirdly, it requires an already set AWS account and eventually an S3 bucket.
+Please, make sure to get these requirements done before running the program. I forgot to note the youtube video links from where I took help to implement this program but 
+I can assure that I have liked each an every video I watched to get this done. On my next work I will add the links first thing.
+
+Note: This is a learning experience and it still requires lots of finishing and good programming practices. Suggestions are welcomed. Thanks!
